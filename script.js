@@ -10,10 +10,10 @@
             },
             {
                 id: 'demo-landing',
-                title: 'ProClean - Jasa Cleaning',
+                title: 'Bengkel Las - Jasa Las Berkualitas',
                 category: 'Landing Page',
-                image: 'https://placehold.co/600x400/111111/8b5cf6?text=Preview+Landing+Page',
-                url: 'https://example.org' // Ganti URL ini
+                image: 'assets/belas.png',
+                url: 'https://zhal06.github.io/BengkelLas/' // Ganti URL ini
             },
             {
                 id: 'demo-toko',
